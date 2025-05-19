@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: izubot
+    name: izubot1
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
