@@ -1,4 +1,6 @@
-Flask
+flask
 pandas
-matplotlib
+sentence-transformers
 scikit-learn
+numpy
+requests
